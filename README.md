@@ -4,13 +4,10 @@ Delsys Streaming software
 Description of project 
 -------------
 
-This repo has framework to allow streaming of Delsys data  
+This repo will eventually contain a fully-functional client for streaming data from Delsys EMG sensors in real-time.  
 
 Reqs: 
 
-* Deslsys x 
-* 1 
-* 2 
-% a Matlab time domain class to rapidly plot time domain data and produce average frequencies (normalization etc.) 
-
-Demo usage 
+* Deslsys EMG System
+* Delsys API (Version >= 3)
+* Python 3
